@@ -1,0 +1,72 @@
+Jose Carrasquero
+Jose Carrasquero
+2 years ago (edited)
+Just the Cheat Sheets for those doing last day review (Like me). Thank you for this Course!!
+
+📓 (0:58:39) S3 
+
+📓 (1:09:27) Snowball 
+
+📓 (1:26:19) VPC Endpoints 
+
+📓 (1:29:09) VPC Flow Logs 
+
+📓 (1:32:30) NACL 
+
+📓 (1:38:39) Security Groups 
+
+📓 (1:42:45) NAT 
+
+📓 (2:50:37) IAM 
+
+📓 (2:58:12) Cognito 
+
+📓 (3:20:41) CLI & SDK 
+
+📓 (3:30:00) DNS 
+
+📓 (3:45:07) Route 53 
+
+📓 3:56:12)  EC2 
+
+📓 (4:04:49) EC2 Pricing 
+
+📓 (4:13:46) AMI 
+
+📓 (4:23:36) Autoscaling Groups 
+
+📓 (4:35:28) ELB 
+
+📓 (5:49:50) EFS 
+
+📓 (6:02:27) EBS 
+
+📓 (6:21:02) CloudFront 
+
+📓 (7:00:11) RDS 
+
+📓 (7:06:56) Aurora 
+
+📓 (7:23:54) DynamoDB 
+
+📓 (7:31:40) CloudFormation 
+
+📓 (7:51:56) CloudWatch 
+
+📓 (8:06:30) CloudTrail 
+
+📓 (8:18:16) Lambda 
+
+📓 (8:28:30) SQS 
+
+📓 (8:37:01) SNS 
+
+📓 (8:42:21) ElastiCache 
+
+📓 (9:02:49) Elastic Beanstalk 
+
+📓 (9:12:41) API Gateway 
+
+📓 (9:20:26) Kinesis 
+
+📓 (9:28:52) Storage Gateway 
